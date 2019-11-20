@@ -1,0 +1,12 @@
+name: CLS_Deciles
+title: CLS_Deciles
+username:
+account: seansantos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1489431
+bundleId: 2598729
+url: https://seansantos.shinyapps.io/CLS_Deciles/
+when: 1574111930.76442
+asMultiple: FALSE
+asStatic: FALSE
